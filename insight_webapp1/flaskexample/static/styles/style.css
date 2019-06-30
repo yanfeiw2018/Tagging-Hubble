@@ -1,0 +1,43 @@
+body #menu {
+  padding: 10px;
+  border-bottom: 1px solid black;
+  margin: 20px;
+  
+}
+
+@media only screen and (min-width: 2000px) {
+  #search-box {
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    width: 2000px;
+  }
+}
+
+#content {
+  margin: 100px;
+}
+
+h4 {
+    font-size: 2em;
+    margin: 20px;
+    
+}
+
+h5 {
+    font-size: 1.5em;
+    margin: 20px;
+    
+}
+
+.bigbox {
+  text-align:center;
+  width = 100%;
+  
+}
+
+.smallbox {
+	display:inline-block;
+}
+
